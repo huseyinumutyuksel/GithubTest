@@ -1,1 +1,3 @@
 Bu dosya deneme amaçlı oluşturulmuştur.
+
+Bu satırlar deneme amaçlı yazılmıştır.
